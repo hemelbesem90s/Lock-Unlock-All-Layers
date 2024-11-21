@@ -5,7 +5,7 @@
     <effect>
         <object-type>all</object-type>
         <effects-menu>
-            <submenu _name="Kraker Trailers"/>
+            <submenu _name="Layers"/>
         </effects-menu>
     </effect>
     <script>
