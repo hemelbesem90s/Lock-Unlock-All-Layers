@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+    <_name>Unlock All Layers</_name>
+    <id>org.inkscape.effect.unlock_all_layers</id>
+    <effect>
+        <object-type>all</object-type>
+        <effects-menu>
+            <submenu _name="Layer"/>
+        </effects-menu>
+    </effect>
+    <script>
+        <command reldir="extensions" interpreter="python">unlock_all_layers.py</command>   
+ 
+    </script>
+</inkscape-extension>
