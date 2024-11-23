@@ -1,6 +1,3 @@
-# Lock-Unlock-All-Layers
-An Inkscape extension to lock or unlock all layers within the SVG document
-
 # Inkscape Layer Locking Extensions
 
 This repository contains three Inkscape extensions for managing layer locking:
